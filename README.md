@@ -1,2 +1,2 @@
 # mini-compiler
-A Mini Compiler for LUA
+A Mini Compiler for c
